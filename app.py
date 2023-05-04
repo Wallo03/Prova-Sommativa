@@ -41,7 +41,7 @@ def plot():
 
 def main():
     st.title(":blue[PROVA SOMMATIVA DEL WALLONE NAZIONALE] 	:chart_with_upwards_trend:")
-    st.title ("Inserier valori da predirre")
+    st.title ("Inserier valori da predirr")
 
 
     crim = st.number_input('Inserisci indice crim',0.0,1000.0,3.613524)
